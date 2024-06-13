@@ -55,11 +55,11 @@ The project can be accessed [here](https://wandelust.onrender.com/listings).
 ## Screenshots
 
 ## Screenshots
-![Screenshot 1](IMAGES/1.jpeg)
-![Screenshot 2](IMAGES/2.jpeg)
-![Screenshot 3](IMAGES/3.jpeg)
-![Screenshot 4](IMAGES/4.jpeg)
-![Screenshot 5](IMAGES/5.jpeg)
+<img src="IMAGES/1.jpeg" alt="Screenshot 1" width="400" height="300">
+<img src="IMAGES/2.jpeg" alt="Screenshot 2" width="400" height="300">
+<img src="IMAGES/3.jpeg" alt="Screenshot 3" width="400" height="300">
+<img src="IMAGES/4.jpeg" alt="Screenshot 4" width="400" height="300">
+<img src="IMAGES/5.jpeg" alt="Screenshot 5" width="400" height="300">
 
 
 ## Skills Demonstrated
