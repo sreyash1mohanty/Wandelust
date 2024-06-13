@@ -52,13 +52,16 @@ Wanderlust is a full-stack Airbnb clone project that follows the Model-View-Cont
 
 The project can be accessed [here](https://wandelust.onrender.com/listings).
 
-## Screenshots
 
 ## Screenshots
-<img src="IMAGES/1.jpeg" alt="Screenshot 1" width="400" height="300">
-<img src="IMAGES/2.jpeg" alt="Screenshot 2" width="400" height="300">
+<div style="display: flex;">
+    <img src="IMAGES/1.jpeg" alt="Screenshot 1" width="400" height="300">
+    <img src="IMAGES/2.jpeg" alt="Screenshot 2" width="400" height="300">
+</div>
+<div style="display: flex;">
 <img src="IMAGES/3.jpeg" alt="Screenshot 3" width="400" height="300">
 <img src="IMAGES/4.jpeg" alt="Screenshot 4" width="400" height="300">
+</div>
 <img src="IMAGES/5.jpeg" alt="Screenshot 5" width="400" height="300">
 
 
