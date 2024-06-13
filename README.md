@@ -54,7 +54,13 @@ The project can be accessed [here](https://wandelust.onrender.com/listings).
 
 ## Screenshots
 
-[Insert screenshots of the application showcasing key functionalities]
+## Screenshots
+![Screenshot 1](IMAGES/1.jpeg)
+![Screenshot 2](IMAGES/2.jpeg)
+![Screenshot 3](IMAGES/3.jpeg)
+![Screenshot 4](IMAGES/4.jpeg)
+![Screenshot 5](IMAGES/5.jpeg)
+
 
 ## Skills Demonstrated
 
